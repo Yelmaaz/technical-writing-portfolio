@@ -9,9 +9,6 @@
 | **Service** | [SERVICE_NAME] |
 | **Environment(s)** | Production / Staging / Development |
 | **Severity Levels** | SEV-1 (complete outage), SEV-2 (degraded), SEV-3 (at risk) |
-| **Last Reviewed** | [YYYY-MM-DD] |
-| **Owner** | [TEAM OR INDIVIDUAL] |
-| **Escalation Contact** | [NAME / CHANNEL / PAGER] |
 
 ### Assumptions and Prerequisites
 
