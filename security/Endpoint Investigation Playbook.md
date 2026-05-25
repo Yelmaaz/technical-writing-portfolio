@@ -11,9 +11,6 @@
 | **Playbook ID** | SEC-PLAY-001 |
 | **Scope** | Linux endpoints investigated remotely over SSH |
 | **Severity Levels** | P1 (confirmed compromise), P2 (likely compromise), P3 (suspicious/inconclusive), P4 (benign anomaly) |
-| **Last Reviewed** | [YYYY-MM-DD] |
-| **Owner** | [TEAM OR INDIVIDUAL] |
-| **Escalation Contact** | [NAME / CHANNEL / PAGER] |
 | **Prerequisites** | SSH access to target host, sudo privileges, local investigation log open before connecting |
 
 ---
