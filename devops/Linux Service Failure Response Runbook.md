@@ -1,3 +1,22 @@
+# Linux Service Failure Response Runbook
+
+> **Portfolio sample notice:** This is a generic template-based runbook created as a portfolio piece. It is not tied to any specific organisation, system, or production environment. All placeholder values (service names, hosts, contacts) must be replaced before operational use.
+
+---
+
+This runbook guides on-call responders through the detection, triage, recovery, and documentation of Linux service failures. It is intended for engineers and operations staff who respond to service health alerts or user-reported outages on systemd-managed Linux hosts. The goal is to reduce mean time to recovery by providing a consistent, repeatable process that covers the most common failure modes.
+
+### Scope and Limitations
+
+This runbook applies to **systemd-managed services on Linux**. It covers package-managed and binary-deployed services running directly on host operating systems.
+
+It does **not** apply to:
+
+- Container orchestration environments (Kubernetes, Nomad, ECS) — service restarts, health checks, and rollbacks work differently in those contexts
+- Services managed by init systems other than systemd (SysVinit, Upstart, runit)
+- Serverless or function-based deployments
+
+If the affected workload runs inside a container orchestrator, refer to the relevant platform runbook instead.
 
 ---
 
@@ -9,6 +28,9 @@
 | **Service** | [SERVICE_NAME] |
 | **Environment(s)** | Production / Staging / Development |
 | **Severity Levels** | SEV-1 (complete outage), SEV-2 (degraded), SEV-3 (at risk) |
+| **Last Reviewed** | [YYYY-MM-DD] |
+| **Owner** | [TEAM OR INDIVIDUAL] |
+| **Escalation Contact** | [NAME / CHANNEL / PAGER] |
 
 ### Assumptions and Prerequisites
 
@@ -541,4 +563,3 @@ The following conditions may trigger alerts or appear as failures but do not req
 | Date | Author | Changes |
 |---|---|---|
 | [YYYY-MM-DD] | [NAME] | Initial version |
-| | | |
