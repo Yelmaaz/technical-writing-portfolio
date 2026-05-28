@@ -14,6 +14,8 @@ cybersecurity operations, and developer tooling.
 ### Security
 - [Endpoint Investigation Playbook](security/endpoint-investigation-playbook.md)  
   SOC-grade playbook for investigating suspicious Linux activity over SSH.
+- [SSH Breach Postmortem: VaultPay INC-2024-0847](https://github.com/Yelmaaz/technical-writing-portfolio/blob/main/security/postmortem-ssh-breach-vaultpay.md)  
+  P1 incident postmortem covering lateral movement via compromised workstation, data exfiltration, and blameless root cause analysis.
 - [Cybersecurity Risks in Modern Banking APIs](security/banking-api-cybersecurity-whitepaper.md)  
   Technical white paper on Open Banking API security and the PSD2 threat landscape.
 
