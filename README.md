@@ -11,11 +11,16 @@ This portfolio covers three documentation categories: SaaS and operational docum
 **[Routepost: Developer Onboarding Guide](https://github.com/Yelmaaz/technical-writing-portfolio/blob/main/SaaS-documentation/Routepost%20Developer%20Documentation.md)**
 Complete getting started documentation for a webhook delivery and event routing API. Covers authentication, sending and receiving events, retry logic, failure scenarios, security, and rate limits. Written for a developer audience.
 
+**[Routepost: API Changelog](https://github.com/Yelmaaz/technical-writing-portfolio/blob/main/SaaS-documentation/Routepost%20Changelog.md)**
+Versioned API changelog covering three releases from v1.0.0 through v2.0.0. Includes breaking change documentation with operational reasoning, a six-step migration guide with before and after code examples, deprecation timelines, and known issues.
+
 **[Clearpath: Customer Success Onboarding SOP](https://github.com/Yelmaaz/technical-writing-portfolio/blob/main/SaaS-documentation/Internal%20SaaS%20Onboarding%20SOP.md)**
 Internal onboarding SOP for a B2B SaaS customer success team. Covers tool stack, day one through week four workflows, 30/60/90-day performance expectations, escalation procedures, and a common mistakes reference.
 
 **[Northlane: Production Incident Response Playbook](https://github.com/Yelmaaz/technical-writing-portfolio/blob/main/SaaS-documentation/Production%20Incident%20Response%20Playbook.md)**
 Production incident response playbook for a fintech payout infrastructure platform. Covers severity definitions, incident roles, escalation matrix, communication protocols, client notification templates, blameless postmortem process, and lessons learned workflow.
+Routepost: API Changelog
+Versioned API changelog covering three releases from v1.0.0 through v2.0.0. Includes breaking change documentation, a step-by-step migration guide, deprecation timelines, and known issues.
 
 ---
 
