@@ -65,4 +65,4 @@ Beginner's guide to Neovim and LazyVim for terminal newcomers.
 
 ## Contact
 
-Open to project-based and retainer documentation engagements across SaaS, fintech, cybersecurity, and infrastructure. Available on [Upwork](https://www.upwork.com/freelancers/yelmaz) or by [email](yelmaaz@gmail.com).
+Open to project-based and retainer documentation engagements across SaaS, fintech, cybersecurity, and infrastructure. Available on [Upwork](https://www.upwork.com/freelancers/yelmaz) or at yelmaaz@gmail.com.
